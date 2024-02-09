@@ -6,5 +6,7 @@
 
 **Practice Makes Perfect:** [Check this out](https://github.com/tark-ignite/codegenie-2024/discussions/3) for practice problems that will fuel your confidence.
 
+**Hone Your Skills:** Follow [this link](https://github.com/tark-ignite/codegenie-2024/discussions/2) for useful tips and tricks that will sharpen your coding skills.
+
 **Questions? We’ve Got Answers:** [Post your question here](https://github.com/tark-ignite/codegenie-2024/discussions/4) and join the conversation.
 
